@@ -27,7 +27,7 @@ body {
   font-size: 13px;
 }
 
-.hero {
+.hero-section {
   position: relative;
   background: linear-gradient(rgba(0, 0, 0, 0.788), rgba(0, 0, 0, 0.449)),
     url(./images/hero-background/hero-background.png);
