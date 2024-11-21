@@ -94,3 +94,18 @@ body {
 footer {
   background-color: black;
 }
+
+.feat-products-btn {
+  color: white !important;
+  background-color: black !important; /* Add a background color */
+  padding: 10px 20px !important;
+  border-radius: 25px !important;
+}
+
+.feat-products-btn:hover {
+  background-color: rgb(68, 68, 68) !important;
+  color: rgb(255, 255, 255) !important;
+  transition: all 0.3s;
+  width: 100% !important;
+  cursor: pointer;
+}
